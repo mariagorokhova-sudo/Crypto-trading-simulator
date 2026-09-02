@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [],
+            "cppStandard": "c++11",
+            "compilerPath": "/usr/bin/clang++"
+        }
+    ],
+    "version": 4
+}
