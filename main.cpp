@@ -7,6 +7,7 @@
 #include "Wallet.h"
 
 // Entry point for the crypto trading simulation
+//Updated from GitHub
 int main()
 {
     CryptoMain app{};
