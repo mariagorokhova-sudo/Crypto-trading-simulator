@@ -6,7 +6,7 @@
 #include "CSVReader.h"
 #include "Wallet.h"
 
-// Crypto trading simulation
+// Entry point for the crypto trading simulation
 int main()
 {
     CryptoMain app{};
